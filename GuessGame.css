@@ -50,8 +50,8 @@ table {
 
 
                #header{
-				background-color:black;
-  				color:white;
+			    background-color: white;
+  				color: black;
  				text-align:center;
 				font-family:broadway;
 				font-size:200%;
@@ -74,6 +74,7 @@ table {
 				float:right;
 			}
 			#footer{
+			    background-color: white;
 				width:100%;
 				image-align:center;
 				float:left;
